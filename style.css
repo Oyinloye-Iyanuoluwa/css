@@ -1,0 +1,18 @@
+#grad{
+    background-image: linear-gradient(red, yellow, green);
+}
+.container{
+    
+    box-shadow: 3px 3px 5px purple;
+}
+h1{
+    color:darkred;
+    text-shadow: 2px 2px 5px yellow ;
+}
+
+h2{
+    color:  rgb(0, 201, 235);
+    text-shadow: 1px 1px 3px black ;
+}
+
+
